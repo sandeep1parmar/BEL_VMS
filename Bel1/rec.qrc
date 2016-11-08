@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Map1.png</file>
+        <file>Images/BEL_Logo.png</file>
+        <file>Images/Add_Camera_flow_page3.png</file>
+        <file>Images/1.png</file>
+        <file>Images/2.png</file>
+        <file>Images/3.png</file>
+        <file>Images/4.png</file>
+        <file>Images/5.png</file>
+        <file>Images/7.png</file>
+        <file>Images/8.png</file>
+        <file>Images/9.png</file>
+        <file>Images/10.png</file>
+        <file>Images/11.png</file>
+        <file>Images/back.png</file>
+        <file>Images/BEL.jpg</file>
+        <file>Images/down_left.png</file>
+        <file>Images/down.png</file>
+        <file>Images/fast_backward.png</file>
+        <file>Images/fast_forward.png</file>
+        <file>Images/forgot-password-icon-9.png</file>
+        <file>Images/help.png</file>
+        <file>Images/ind.png</file>
+        <file>Images/index.png</file>
+        <file>Images/infochips-logo.jpg</file>
+        <file>Images/left_up.png</file>
+        <file>Images/left.png</file>
+        <file>Images/lock_512pxGREY.png</file>
+        <file>Images/login-icon-png-27.png</file>
+        <file>Images/minuse.png</file>
+        <file>Images/move_left.png</file>
+        <file>Images/move_right.png</file>
+        <file>Images/moveryt.png</file>
+        <file>Images/notification.png</file>
+        <file>Images/password.png</file>
+        <file>Images/play.png</file>
+        <file>Images/right_down.png</file>
+        <file>Images/up_right.png</file>
+        <file>Images/user.png</file>
+        <file>Images/up.png</file>
+        <file>Images/pluse.png</file>
+        <file>Images/right.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
